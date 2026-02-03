@@ -9,10 +9,10 @@ This project demonstrates various **data sampling techniques** applied to an imb
 ## 🎯 Objectives
 
 1. **Understand Data Imbalance**: Identify and visualize the class distribution problem in the credit card dataset
-2. **Implement Sampling Techniques**: Apply 7 different sampling methods to create balanced samples
-3. **Train Multiple Models**: Build and train 5 different classification models
-4. **Compare Performance**: Evaluate model accuracy across all sampling techniques
-5. **Provide Recommendations**: Suggest best practices for handling imbalanced data
+2. **Balance the Data using SMOTE**: Used SMOTE to balance the data  and match the classes distribution.
+3. **Implement Sampling Techniques**: Apply 6 different sampling methods to create balanced samples
+4. **Train Multiple Models**: Build and train 5 different classification models
+5. **Compare Performance**: Evaluate model accuracy across all sampling techniques
 
 ---
 
@@ -23,7 +23,8 @@ This project demonstrates various **data sampling techniques** applied to an imb
 - **Classes**: 
   - Class 0: Legitimate transactions (Majority)
   - Class 1: Fraudulent transactions (Minority)
-
+- **SMOTE**:
+    Synthetically generate data to balance the dataset, here we match the number of ('0') which was earlier 9 to ('1') as 763
 ---
 
 ## 🛠️ Sampling Techniques Implemented
