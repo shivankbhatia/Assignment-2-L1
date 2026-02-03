@@ -1,6 +1,6 @@
 # Data Sampling Techniques & Model Evaluation
 
-_This is a submission to the (Assignment-1)[https://github.com/AnjulaMehto/Sampling_Assignment/tree/main]_
+_This is a submission to the [Assignment-1](https://github.com/AnjulaMehto/Sampling_Assignment/tree/main)_
 
 ## 📋 Project Overview
 
