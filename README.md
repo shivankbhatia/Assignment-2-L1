@@ -115,27 +115,3 @@ The results are stored in [results.csv].
 | Decision Tree | 0.9677 | 0.8500 | 0.7619 | 0.9608 | 0.9928 | 0.8000 | 0.9706 |
 
 ---
-
-## 💡 Key Recommendations
-
-### For Imbalanced Classification:
-1. **Use SMOTE Oversampling** ✓
-   - Preserves original data integrity
-   - Creates realistic synthetic minority samples
-   - Prevents information loss
-
-2. **Use Stratified Sampling** ✓
-   - Maintains class distribution in samples
-   - Simple and interpretable
-   - Good baseline approach
-
-3. **Avoid Simple Random Sampling** ✗
-   - For imbalanced data, likely to create even more imbalance
-   - May miss minority class in small samples
-
-### Model Selection:
-- **Random Forest**: Often performs well without tuning
-- **Logistic Regression**: Interpretable, good baseline
-- **SVM**: Effective for binary classification
-- **KNN**: Sensitive to feature scaling (handled in code)
-- **Decision Tree**: Fast inference, interpretable
