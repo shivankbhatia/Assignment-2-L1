@@ -1,6 +1,6 @@
 # Data Sampling Techniques & Model Evaluation
 
-_This is a submission to the [Assignment-1](https://github.com/AnjulaMehto/Sampling_Assignment/tree/main)_
+_This is a submission to the [Assignment-2](https://github.com/AnjulaMehto/Sampling_Assignment/tree/main)_
 
 ## 📋 Project Overview
 
@@ -139,54 +139,3 @@ The results are stored in [results.csv].
 - **SVM**: Effective for binary classification
 - **KNN**: Sensitive to feature scaling (handled in code)
 - **Decision Tree**: Fast inference, interpretable
-
-### Important Considerations:
-⚠️ **Always validate on original unsampled test data** - Sampled data results may not reflect real-world performance
-
----
-
-## 📚 Learning Outcomes
-
-After completing this project, you will understand:
-- ✓ What class imbalance is and why it matters
-- ✓ How different sampling techniques work
-- ✓ Pros and cons of each sampling approach
-- ✓ How to train and evaluate ML models
-- ✓ How to compare model performance across techniques
-- ✓ Best practices for handling imbalanced datasets
-
----
-
-## 📖 References
-
-- **Imbalanced Learning**: SMOTE technique (Chawla et al., 2002)
-- **Sampling Methods**: Stratified vs Random sampling trade-offs
-- **Model Evaluation**: Accuracy, Precision, Recall, F1-Score
-- **Scikit-learn Documentation**: [https://scikit-learn.org](https://scikit-learn.org)
-- **Imbalanced-learn**: [https://imbalanced-learn.org](https://imbalanced-learn.org)
-
----
-
-## 👨‍💻 Author & Acknowledgments
-
-**Course**: Data Science - Lecture Work  
-**Semester**: 6th  
-**Topic**: Data Sampling & Class Imbalance Handling
-
----
-
-## 📝 License
-
-This project is for educational purposes.
-
----
-
-## 🔄 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | Feb 2026 | Initial implementation with 7 sampling techniques and 5 models |
-
----
-
-**Last Updated**: February 3, 2026
