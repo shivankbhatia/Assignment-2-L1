@@ -2,6 +2,8 @@
 
 _This is a submission to the [Assignment-2](https://github.com/AnjulaMehto/Sampling_Assignment/tree/main)_
 
+_Submitted by: **Shivank Bhatia**, 102303655, 3C45_
+
 ## 📋 Project Overview
 
 This project demonstrates various **data sampling techniques** applied to an imbalanced credit card fraud detection dataset. We implement and compare multiple sampling strategies to handle class imbalance, then train 5 different machine learning models to evaluate their performance across these sampling techniques.
